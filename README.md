@@ -1,5 +1,5 @@
 # 🗂️ Meu Portfólio
-![imagem](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/public/Alexandre_home.jpeg)
+![imagem](Ale_home_circle.png)
 
 
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi criado para apresentar minha trajetória como desenvolvedor Full-Stack, destacar os projetos em que trabalhei e as tecnologias com as quais tenho experiência.
