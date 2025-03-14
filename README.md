@@ -1,6 +1,8 @@
 # 🗂️ Meu Portfólio
-<img src="public/Alexandre_home.jpeg" width="300">
 
+<p align="center">
+<img src="public/Alexandre_home.jpeg" width="300">
+</p>
 
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi criado para apresentar minha trajetória como desenvolvedor Full-Stack, destacar os projetos em que trabalhei e as tecnologias com as quais tenho experiência.
 
