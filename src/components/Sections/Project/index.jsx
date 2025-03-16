@@ -47,7 +47,7 @@ export default function Project() {
                 />
                 <CardProjectSmall
                     name='JF Eletronic'
-                    description='O ValorantCore é um site Site para uma empresa de produtos eletrônicos'
+                    description='O JF Eletronic é um site Site para uma empresa de produtos eletrônicos'
                     image={JFeletronic}
                     to='https://github.com/alefaria577'
                     technologies={
