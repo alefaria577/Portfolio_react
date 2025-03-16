@@ -13,7 +13,6 @@ Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi criado par
 
 ## Para abrir o projeto
 
-- git clone + Link
 - npm install
 - npm audit fix
 - npm run dev
