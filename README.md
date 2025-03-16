@@ -11,6 +11,13 @@
 
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi criado para apresentar minha trajetória como desenvolvedor Front-End, destacar os projetos em que trabalhei e as tecnologias com as quais tenho experiência.
 
+## Para abrir o projeto
+
+- git clone + Link
+- npm install
+- npm audit fix
+- npm run dev
+
 ## 🛠️ Tecnologias
 
 - React
